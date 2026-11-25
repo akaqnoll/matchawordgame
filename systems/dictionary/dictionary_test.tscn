@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://cwqbeuy7jmtu"]
+
+[ext_resource type="Script" uid="uid://tfea2ggya3xp" path="res://systems/dictionary/dictionary_test.gd" id="1_mgir2"]
+
+[node name="DictionaryTest" type="Node3D" unique_id=147071001]
+script = ExtResource("1_mgir2")
